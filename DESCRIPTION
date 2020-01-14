@@ -8,5 +8,5 @@ Maintainer: Serguei Sokol <sokol@insa-toulouse.fr>
 Description: Construct an example of check/test not finding 'RcppArmadilo' during test phase.
 License: GPL-2
 Imports: Rcpp (>= 1.0.3)
-LinkingTo: Rcpp, RcppArmadillo
-Suggests: RUnit, RcppXPtrUtils, RcppArmadillo
+LinkingTo: Rcpp, RcppArmadillo, r2sundials, rmumps
+Suggests: RUnit, RcppXPtrUtils, RcppArmadillo, r2sundials
